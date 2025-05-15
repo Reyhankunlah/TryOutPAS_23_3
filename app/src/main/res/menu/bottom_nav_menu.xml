@@ -5,10 +5,10 @@
         android:title="Profile" />
     <item
         android:id="@+id/nav_laliga"
-        android:icon="@android:drawable/ic_menu_manage"
+        android:icon="@drawable/laligaa"
         android:title="Laliga" />
     <item
         android:id="@+id/nav_premiere"
-        android:icon="@android:drawable/ic_menu_info_details"
+        android:icon="@drawable/premierr"
         android:title="Premiere" />
 </menu>
