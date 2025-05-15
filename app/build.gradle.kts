@@ -4,11 +4,11 @@ plugins {
 
 android {
     namespace = "com.example.tryoutpas_23_3"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.example.tryoutpas_23_3"
-        minSdk = 34
+        minSdk = 26
         targetSdk = 34
         versionCode = 1
         versionName = "1.0"
